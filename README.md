@@ -8,4 +8,8 @@ As the purposes of high performance controllers design, the relationship between
 
 System Identification is a kind of advanced digital control strategies to provide more information about model, for designing a model-based self-tuning PID controller.
 
-My programme is still in progress. I will keep update.
+The uploaded python code may provide a little help with researchers and engineerers are working on the area of digital control on power electronics.
+
+The PDF will explain a straightforward methodology of getting the appropriate transfer function depending on your needs by some basic theories of electrical circuits and automatic control.
+
+My programme is still in progress. More advanced control strategies will be released:)
